@@ -1,1 +1,2 @@
+# This basic test file created for fotografeer.nl is in the public domain
 This is a simple text.
