@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/dsnpevl/revalidation.type.test/refs/heads/main/simple.txt
+This is a simple text.
