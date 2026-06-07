@@ -1,1 +1,2 @@
+https://raw.githubusercontent.com/dsnpevl/revalidation.type.test/refs/heads/main/example.txt
 This is just a simple text file. It is not tabular. It includes some data. Tomorrow's winning lottery numbers are 45, 16, 19 and 42.
