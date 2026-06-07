@@ -1,1 +1,2 @@
-This is just a simple text file. It is not tabular. It includes some data. Tomorrow's winning lottery numbers are 45, 16, 19 and 42.
+# This simple text file create for fotografeer.nl is in the public domain.
+This is just a simple text file. Some numbers are 5, 12, 33 and 45. Some punctuation marks are .?!,;:()[]{}. Some special characters are |@#$%^&*+. Toggle the presets and/or the auto-complete setting buttons to watch the different behaviours.
