@@ -1,2 +1,2 @@
 # debug test file
-123"Dit is een simpele tekst". Het bevat hoofdletters, spaties, nummers 0123456789, leestekens .?!,;:-–—()[]{}" en speciale karakters #$%&*+/<=>@^_`|~\\°£. "Ondersteuning voor andere speciale karakters wordt nog toegevoegd". 
+123"Dit is een simpele tekst". Het bevat hoofdletters, spaties, nummers 0123456789, leestekens .?!,;:-–—()[]{}" en speciale karakters #$%&*+/<=>@^_`|~\\°£. 
