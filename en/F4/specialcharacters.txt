@@ -1,2 +1,2 @@
 # Alt Code special characters for software development and testing
-€°£
+Euro € <Alt>+0128 Degrees ° <Alt>+0176 Pound £ <Alt>+0163
